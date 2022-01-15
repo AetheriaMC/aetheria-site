@@ -58,11 +58,15 @@ h2 {
 
 }
 
-span.green {
+.green {
     color: lime;
     font-weight: bold;
 }
-video {
+.blue {
+    color: aqua;
+    font-weight: bold;
+}
+.center-video {
     margin-left: auto;
     margin-right: auto;
     display: block
