@@ -1,17 +1,8 @@
 import React from "react";
 
-const Navbar = () => {
-
-    return (
-        <>
-            <nav>
-                {
-                    /*
-                    TODO: do navbar
-                     */
-                }
-            </nav>
-        </>
-    )
-}
+const Navbar = () => (
+	<>
+		<nav>{/*TODO: do navbar*/}</nav>
+	</>
+);
 export default Navbar;
